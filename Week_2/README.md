@@ -39,19 +39,19 @@ This symbol represents a forced termination of the process or flowchart.
 
 - What software or tool is recommended for creating flowcharts?
 
-###Microsoft Visio 
+### Microsoft Visio 
 A widely used diagramming and flowcharting tool that offers a range of features and functionalities for creating professional-looking flowcharts.
 
-###Lucidchart
+### Lucidchart
 A web-based diagramming and flowcharting tool that offers collaborative features and integration with other productivity tools.
 
-###SmartDraw
+### SmartDraw
 A diagramming and flowcharting tool that offers a range of templates and drag-and-drop functionality for creating flowcharts easily.
 
-###Draw.io
+### Draw.io
 An open-source diagramming and flowcharting tool that can be used offline or online, and offers a range of integrations and customization options.
 
-###Gliffy
+### Gliffy
 A web-based diagramming and flowcharting tool that offers a range of templates and shapes for creating flowcharts quickly.
 
 ## Challenge #1
