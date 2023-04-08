@@ -1,2 +1,15 @@
-# csharp-console-challenges
-In my role as a PAL leader for Conestoga College, I aim to share weekly challenges with students that can help them practice and better understand the course content.
+# C# Console Application Challenges
+
+In this GitHub repository, you will find the concepts of C# and challenges to help students succeed in Programming Concepts I
+
+## Project List
+
+| Week | Description | Link 
+| ------ | ------ | ------ |
+| Week 1 | C# Introduction | [Week-1](https://github.com/BuenoIT/csharp-console-challenges/tree/main/Week_1)|
+| Week 2 | Flowchart | [Week-2]()|
+
+
+## License
+
+MIT
