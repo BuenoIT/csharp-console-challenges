@@ -1,6 +1,6 @@
 # C# Console Application Challenges
 
-In this GitHub repository, you will find the concepts of C# and challenges to help students succeed in Programming Concepts I
+In this GitHub repository, you will find the concepts of C# and challenges to help students succeed in Programming Concepts I course
 
 ## Project List
 
