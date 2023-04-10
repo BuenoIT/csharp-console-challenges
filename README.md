@@ -18,6 +18,7 @@ The GitHub repository contains C# programming language concepts and challenges d
 | Week 10 | Arrays | [Week-10](https://github.com/BuenoIT/csharp-console-challenges/tree/main/Week_10)|
 | Week 11 | Values, References & Strings  | [Week-11](https://github.com/BuenoIT/csharp-console-challenges/tree/main/Week_11)|
 | Week 12 | Classes and Objects | [Week-12](https://github.com/BuenoIT/csharp-console-challenges/tree/main/Week_12)|
+| Week 13 | Final Review | [Week-13](https://github.com/BuenoIT/csharp-console-challenges/tree/main/Week_13)|
 
 
 ## License
