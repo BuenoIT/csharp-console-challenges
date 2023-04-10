@@ -1,0 +1,8 @@
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_6\VowelCounter\bin\Debug\VowelCounter.exe.config
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_6\VowelCounter\bin\Debug\VowelCounter.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_6\VowelCounter\bin\Debug\VowelCounter.pdb
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_6\VowelCounter\obj\Debug\VowelCounter.csproj.AssemblyReference.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_6\VowelCounter\obj\Debug\VowelCounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_6\VowelCounter\obj\Debug\VowelCounter.csproj.CoreCompileInputs.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_6\VowelCounter\obj\Debug\VowelCounter.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_6\VowelCounter\obj\Debug\VowelCounter.pdb
