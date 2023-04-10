@@ -1,0 +1,8 @@
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_10\ArraySorting\bin\Debug\ArraySorting.exe.config
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_10\ArraySorting\bin\Debug\ArraySorting.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_10\ArraySorting\bin\Debug\ArraySorting.pdb
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_10\ArraySorting\obj\Debug\ArraySorting.csproj.AssemblyReference.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_10\ArraySorting\obj\Debug\ArraySorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_10\ArraySorting\obj\Debug\ArraySorting.csproj.CoreCompileInputs.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_10\ArraySorting\obj\Debug\ArraySorting.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_10\ArraySorting\obj\Debug\ArraySorting.pdb
