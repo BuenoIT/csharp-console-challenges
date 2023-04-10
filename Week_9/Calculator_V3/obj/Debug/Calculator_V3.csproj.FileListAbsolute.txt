@@ -1,0 +1,8 @@
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_9\Calculator_V3\bin\Debug\Calculator_V3.exe.config
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_9\Calculator_V3\bin\Debug\Calculator_V3.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_9\Calculator_V3\bin\Debug\Calculator_V3.pdb
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_9\Calculator_V3\obj\Debug\Calculator_V3.csproj.AssemblyReference.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_9\Calculator_V3\obj\Debug\Calculator_V3.csproj.SuggestedBindingRedirects.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_9\Calculator_V3\obj\Debug\Calculator_V3.csproj.CoreCompileInputs.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_9\Calculator_V3\obj\Debug\Calculator_V3.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_9\Calculator_V3\obj\Debug\Calculator_V3.pdb
