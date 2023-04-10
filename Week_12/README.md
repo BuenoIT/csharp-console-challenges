@@ -30,3 +30,10 @@ Private and public are access modifiers used in C# to specify the level of acces
 Title: Password Generator
 
 Description: In this challenge, you will create a console application that generates a random password using a PasswordGenerator class and asks the user to enter the password. The application will then validate whether the entered password matches the generated password using the IsPasswordValid method of the PasswordGenerator class. The user will be prompted with a success message if the password is correct, and a failure message if the password is incorrect. The application will continue to prompt the user for the password until the correct password is entered.
+
+
+## Challenge #2
+
+Title: User Age Verification
+
+Description: Create a console application that asks the user to enter their name and age. If the user is 18 years or older, the application should welcome them with a message that includes their name and age. If the user is under 18, the application should inform them that they are too young and ask for their parent's permission. The application should continue to ask for the user's age until they are 18 or older."

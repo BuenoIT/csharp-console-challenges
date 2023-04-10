@@ -1,0 +1,8 @@
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_12\UserAgeVerification\obj\Debug\UserAgeVerification.csproj.AssemblyReference.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_12\UserAgeVerification\obj\Debug\UserAgeVerification.csproj.SuggestedBindingRedirects.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_12\UserAgeVerification\obj\Debug\UserAgeVerification.csproj.CoreCompileInputs.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_12\UserAgeVerification\bin\Debug\UserAgeVerification.exe.config
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_12\UserAgeVerification\bin\Debug\UserAgeVerification.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_12\UserAgeVerification\bin\Debug\UserAgeVerification.pdb
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_12\UserAgeVerification\obj\Debug\UserAgeVerification.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_12\UserAgeVerification\obj\Debug\UserAgeVerification.pdb
