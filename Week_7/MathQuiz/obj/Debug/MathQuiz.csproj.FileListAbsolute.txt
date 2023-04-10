@@ -1,0 +1,8 @@
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_7\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_7\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_7\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_7\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_7\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_7\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_7\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_7\MathQuiz\obj\Debug\MathQuiz.pdb
