@@ -12,6 +12,8 @@ The GitHub repository contains C# programming language concepts and challenges d
 | Week 4 | Debugging and Decision Statements | [Week-4](https://github.com/BuenoIT/csharp-console-challenges/tree/main/Week_4)|
 | Week 5 | Methods | [Week-5](https://github.com/BuenoIT/csharp-console-challenges/tree/main/Week_5)|
 | Week 6 | Iteration | [Week-6](https://github.com/BuenoIT/csharp-console-challenges/tree/main/Week_6)|
+| Week 7 | Review Week 1-6 | [Week-7](https://github.com/BuenoIT/csharp-console-challenges/tree/main/Week_7)|
+| Week 8 | Break | - |
 
 
 ## License
