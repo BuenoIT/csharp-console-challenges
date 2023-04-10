@@ -10,11 +10,11 @@ Iteration is the process of repeatedly executing a block of code until a certain
 
 - What are the different types of iteration in programming?
 
-### Count-controlled iteration: where the number of iterations is known before the loop starts.
-### Condition-controlled iteration: where the loop continues until a certain condition is met.
-### Collection-controlled iteration: where the loop iterates over the elements of a collection.
-### Sentinel-controlled iteration: where the loop continues until a specific value is encountered.
-### Nested iteration: where one or more loops are nested within another loop.
+Count-controlled iteration: where the number of iterations is known before the loop starts.
+Condition-controlled iteration: where the loop continues until a certain condition is met.
+Collection-controlled iteration: where the loop iterates over the elements of a collection.
+Sentinel-controlled iteration: where the loop continues until a specific value is encountered.
+Nested iteration: where one or more loops are nested within another loop.
 
 - What is the syntax for a for loop in C#?
 
