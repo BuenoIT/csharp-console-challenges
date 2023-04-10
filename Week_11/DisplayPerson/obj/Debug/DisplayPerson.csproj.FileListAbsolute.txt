@@ -1,0 +1,8 @@
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_11\DisplayPerson\bin\Debug\DisplayPerson.exe.config
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_11\DisplayPerson\bin\Debug\DisplayPerson.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_11\DisplayPerson\bin\Debug\DisplayPerson.pdb
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_11\DisplayPerson\obj\Debug\DisplayPerson.csproj.AssemblyReference.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_11\DisplayPerson\obj\Debug\DisplayPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_11\DisplayPerson\obj\Debug\DisplayPerson.csproj.CoreCompileInputs.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_11\DisplayPerson\obj\Debug\DisplayPerson.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_11\DisplayPerson\obj\Debug\DisplayPerson.pdb
