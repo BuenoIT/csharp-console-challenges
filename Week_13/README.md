@@ -37,3 +37,15 @@ Implement the ListTables method that displays the list of tables.
 Implement the Main method that allows the user to interact with the application.
 
 Use exception handling to handle any errors that may occur during the execution of the program.
+
+
+
+## Challenge #2
+
+Title: String Analysis with CountOccurrences Method
+
+Description:
+
+In this C# challenge, you will create a StringAnalyzer class with a CountOccurrences method that takes two string parameters: text and substring. The method will count the number of times the substring appears in the text. You will then use a for loop to iterate through a list of strings, call the CountOccurrences method for each string in the list, and print out a message to the console indicating the original string and the number of times the substring was found.
+
+This challenge will test your ability to use a for loop to iterate through a list of strings, create a class, and manipulate strings using C# string manipulation methods. This challenge will also help you to understand how to use class methods to perform specific tasks on given input.
