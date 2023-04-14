@@ -1,0 +1,8 @@
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_13\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_13\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_13\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_13\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_13\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_13\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_13\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+C:\Users\bueno\source\repos\csharp-console-challenges\Week_13\RestaurantManagement\obj\Debug\RestaurantManagement.pdb

@@ -49,3 +49,38 @@ Description:
 In this C# challenge, you will create a StringAnalyzer class with a CountOccurrences method that takes two string parameters: text and substring. The method will count the number of times the substring appears in the text. You will then use a for loop to iterate through a list of strings, call the CountOccurrences method for each string in the list, and print out a message to the console indicating the original string and the number of times the substring was found.
 
 This challenge will test your ability to use a for loop to iterate through a list of strings, create a class, and manipulate strings using C# string manipulation methods. This challenge will also help you to understand how to use class methods to perform specific tasks on given input.
+
+
+## Challenge #3
+
+Title: Password Strength Checker with String Manipulation
+
+Description: 
+
+Write a C# program that implements a PasswordStrengthChecker class to check the strength of a password. The PasswordStrengthChecker class should have the following features:
+
+1. Ability to set and get the password as a string.
+2. Check the length of the password to ensure it is at least 8 characters long.
+3. Check if the password contains at least one uppercase letter.
+4. Check if the password contains at least one lowercase letter.
+5. Check if the password contains at least one digit.
+6. Check if the password contains at least one special character from the set: !@#$%^&*(),.?":{}|<>.
+7. Provide a method to generate a random password of a given length.
+8. Ability to determine if the password is strong, which requires meeting all the above criteria (length, uppercase, lowercase, digit, and special character).
+
+The PasswordStrengthChecker class should have the following methods:
+
+- public void SetPassword(string password): sets the password for the instance of PasswordStrengthChecker.
+- public string GetPassword(): gets the password of the instance of PasswordStrengthChecker.
+- public bool CheckLength(): checks if the password meets the minimum length requirement.
+- public bool CheckUppercase(): checks if the password contains at least one uppercase letter.
+- public bool CheckLowercase(): checks if the password contains at least one lowercase letter.
+- public bool CheckDigits(): checks if the password contains at least one digit.
+- public bool CheckSpecialChars(): checks if the password contains at least one special character.
+- public bool IsStrongPassword(): checks if the password meets all the strength criteria (length, uppercase, lowercase, digit, and special character).
+- public static string GenerateRandomPassword(int length): generates a random password of the given length, containing a mix of uppercase letters, lowercase letters, digits, and special characters.
+
+You should demonstrate the usage of the PasswordStrengthChecker class in your program by creating an instance, setting a password, and checking its strength using the provided methods. Additionally, generate a random password using the GenerateRandomPassword method and set it as the password for another instance of PasswordStrengthChecker, then check its strength.
+
+
+
